@@ -1,2 +1,1 @@
-kale_arkasi - yapacagim
-insallah
+futbol takibi projesi
